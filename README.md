@@ -18,4 +18,4 @@
 ### Детекция лиц
 ![boss1](https://github.com/upupupahah/IVT24/raw/main/boss1.jpg)
 ### Сегментация контуров людей
-![boss3](https://github.com/upupupahah/IVT24/raw/main/boss2.jpg)
+![boss2](https://github.com/upupupahah/IVT24/raw/main/boss2.jpg)
